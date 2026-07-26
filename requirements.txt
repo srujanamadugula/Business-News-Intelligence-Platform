@@ -1,0 +1,6 @@
+streamlit
+feedparser
+requests
+pandas
+beautifulsoup4
+lxml
